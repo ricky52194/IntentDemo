@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name='setBackground'>Set Background</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="supermoon">supermoon</string>
+    <string name="waterfall">waterfall</string>
+    <string name="supermoonToast">I clicked supermoon!</string>
+    <string name="waterfallToast">I clicked waterfall!</string>
+    <string name="intentCalled">Intent Called</string>
+    <string name="imageID">imageID</string>
+</resources>
